@@ -48,7 +48,7 @@ To run these programs, you need to compile them and then run them. Here is a ste
 
 ## Compilation
 
-1. **Install the necessary dependencies** (for Ubuntu/Debian):
+1. **Install the necessary dependencies** (for example Ubuntu/Debian):
 ```bash
 sudo apt-get update
 sudo apt-get install build-essential libx11-dev libxtst-dev

@@ -54,7 +54,7 @@ sudo apt-get install build-essential libx11-dev libxtst-dev
 
 2. **Compile midi_core.c**:
 ```bash
-gcc -o midi_core midi_core.c
+gcc -o play_core play_core.c -lX11 -lXtst -lpthread
 ```
 
 3. **Compile play_core.c**:

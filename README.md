@@ -4,8 +4,6 @@ Auto Piano Remake for Roblox (Linux *and Unix systems (in theory)*)
 ## Disclaimer: 
 Yes, the Python version of what I remade (the existing auto piano with my improved legit mode) works, but that doesn't mean it's perfect and smooth; it has more bugs than on Windows. So, if you have Linux or another Unix system that supports C, I'm ready to introduce you to this project. And, yes, I did not create this code with the assistance of AI, as I learned to program using AI, but I did write the code myself.
 
-Sure! Here's the text adapted for your `README.md`, reflecting the transition to C with X11 support and the improved legit mode, all in a fun, South African-inspired style:
-
 ---
 
 # 🎹 Linux/Unix X11 Piano Bot in C
